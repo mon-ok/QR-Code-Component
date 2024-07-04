@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-Add necessary components first, then style it based on what designed is desired. This process enables me to visualize the end result in an effective manner.
+Add the necessary components first, then style it based on what design is given. This process enabled me to visualize the end result in an effective manner.
 
 ### Built with
 
